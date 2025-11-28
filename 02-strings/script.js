@@ -18,7 +18,7 @@ let bool;
 
 number = "99"
 text = "Ho perso le parole"
-bool= "true"
+bool= (15 > 10)
 
 console.log (number, text, bool);
 
